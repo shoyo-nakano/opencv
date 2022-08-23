@@ -1,5 +1,5 @@
 {
-  "name": "opencv",
+  "name": "@shoyo-nakano/opencv",
   "version": "1.0.0",
   "description": "",
   "main": "opencv.js",
